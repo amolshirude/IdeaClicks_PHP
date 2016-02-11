@@ -1,0 +1,35 @@
+[04-Dec-2015 12:09:05 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[04-Dec-2015 13:46:12 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ideaclicks/public_html/app/Config/routes.php on line 32
+[04-Dec-2015 22:48:54 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 07:38:19 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:38:26 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:40:51 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:41:55 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:43:41 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:43:57 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:44:05 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:44:55 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 07:45:05 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 07:47:48 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:47:52 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:48:36 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:48:40 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:50:44 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:52:33 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:52:54 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:54:08 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 07:55:52 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 08:13:18 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 08:13:33 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 08:37:47 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 08:39:27 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 08:39:51 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 08:44:17 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 08:45:20 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 08:46:27 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 08:54:46 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/IdeasController.php on line 358
+[05-Dec-2015 09:07:47 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 09:26:56 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[05-Dec-2015 09:28:48 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ideaclicks/public_html/app/Controller/AdminController.php on line 565
+[08-Dec-2015 08:44:22 UTC] PHP Fatal error:  Class 'EmailConfiguration' not found in /home/ideaclicks/public_html/app/Controller/PasswordController.php on line 35
+[08-Dec-2015 12:17:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting catch (T_CATCH) in /home/ideaclicks/public_html/app/Controller/PasswordController.php on line 56
